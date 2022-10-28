@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 488,
+      "title": "Adobe Photoshop",
+      "image_url": "https://knowledgecom.my/wp-content/uploads/2020/11/Photoshop-2020.png",
+      "details": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 488,
+      "title": "Adobe Illustrator",
+      "image_url": "https://illustratorhow.com/wp-content/uploads/learn-adobe-illustrator2-800x400.png",
+      "details": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud, Illustrator CC was released."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_enrolled": 400,
+      "title": "Adobe Premeire Pro",
+      "image_url": "https://i.ytimg.com/vi/V5sENw2C97s/maxresdefault.jpg",
+      "details": "Adobe Premiere Pro is a timeline-based and non-linear video editing software application developed by Adobe Inc. and published as part of the Adobe Creative Cloud licensing program. First launched in 2003, Adobe Premiere Pro is a successor of Adobe Premiere."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "01",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_enrolled": 400,
+      "title": "Adobe After Effect",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO6M8Txkc0uVXJsYHe3Gx10xirUohnYqo0w&usqp=CAU",
+      "details": "Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of film making, video games and television production. Among other things, After Effects can be used for keying, tracking, compositing, and animation"
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 980,
+      "title": "MS Word",
+      "image_url": "https://getproductkey.net/wp-content/uploads/2019/12/Microsoft-Word-Free-Download-and-Activate-2020.png",
+      "details": "WMicrosoft Word is a word processing software developed by Microsoft. It was first released on October 25, 1983, under the name Multi-Tool Word for Xenix systems"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 980,
+      "title": "Excel",
+      "image_url": "https://5.imimg.com/data5/KO/UM/GLADMIN-66275087/ms-excel-basic-computer-courses-500x500.png",
+      "details": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. Excel forms part of the Microsoft Office suite of software."
+    }
+]
